@@ -7,9 +7,9 @@
 
 ### Hi, I'm Abhinav 👋
 
-PM with **5+ years** across India's highest-scale consumer platforms — **Flipkart (Walmart), Tata 1mg, Meesho, ShareChat** — products serving **400M+ users**.
-Now at **Carnegie Mellon (MS, Product Management '26)**, focused on consumer AI.
-I write the PRD *and* the code.
+I am a product manager with **5+ years** building consumer products at some of India's biggest companies: **Flipkart (Walmart), Tata 1mg, Meesho, and ShareChat**. The products I worked on reach **400M+ users**, and a large share of them are people coming online for the first time, using the internet in their own language.
+
+Right now I am at **Carnegie Mellon**, doing my **MS in Product Management (2026)** and going all in on consumer AI. The part I enjoy most is building the thing for real. I take a product from PRD to design to a live, working app, mostly on my own. So I know what I am shipping, not just what I am writing about.
 
 <a href="https://linkedin.com/in/abhinavgupta0809"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:agupta7@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -19,19 +19,19 @@ I write the PRD *and* the code.
 
 ---
 
-## 🚀 Featured — Atelier Health
+## 🚀 Featured project: Atelier Health
 
 <div align="center">
 <table>
 <tr><td width="640">
 
-<h3 align="center">🥗 Atelier Health — calorie tracking in plain language</h3>
+<h3 align="center">🥗 Atelier Health: calorie tracking in plain language</h3>
 
 <p align="center">
-A live, LLM-powered calorie tracker I designed, built, and deployed <b>solo</b> — PRD to production.
-Log a meal in plain language, <i>in any language</i> (English, Hindi, Mandarin…), and the OpenAI API
-estimates calories + macros. No dropdowns, no 50,000-food database to search. Proof a PM can ship a
-working AI product end-to-end.
+A live calorie tracker I designed, built, and deployed on my own, from PRD all the way to production.
+You type what you ate in plain language, in any language (English, Hindi, Mandarin, and more), and the
+OpenAI API works out the calories and macros for you. No dropdowns, no searching through a list of
+50,000 foods. It is my proof that a PM can ship a real AI product end to end.
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ working AI product end-to-end.
 </p>
 
 <!-- SCREENSHOT: drop an app screen into assets/ and uncomment the next line -->
-<!-- <p align="center"><img src="assets/atelier-logging.png" width="600" alt="Atelier Health — meal logging" /></p> -->
+<!-- <p align="center"><img src="assets/atelier-logging.png" width="600" alt="Atelier Health meal logging" /></p> -->
 
 </td></tr>
 </table>
@@ -50,11 +50,11 @@ working AI product end-to-end.
 
 ## 🛠️ What I work on
 
-- **Applied LLMs** — shipped a GPT + Synthesia pipeline at Tata 1mg that generates multilingual medicine-explainer videos, so non-English-first users actually understand what they're taking
-- **Recommendation systems & computer vision** — diagnostics recsys and seller-catalog image matching
-- **Consumer growth & loyalty** — ran Flipkart's loyalty portfolio for **~20M** high-value users
-- **Shipping AI solo** — design → build → deploy with an AI-native toolchain (Cursor, Replit, the OpenAI & Claude APIs)
-- **Two threads that define me** — building AI for non-English-first users, and being a PM who ships working software, not just docs
+- **Applied LLMs:** At Tata 1mg I shipped a GPT and Synthesia pipeline that builds medicine explainer videos in many Indian languages, so people actually understand what they are taking.
+- **Recommendations and computer vision:** diagnostics recommendation systems, and image matching for seller catalogs.
+- **Growth and loyalty:** I ran Flipkart's loyalty portfolio for around 20 million high value users.
+- **Building AI on my own:** I design, build, and deploy products myself using Cursor, Replit, and the OpenAI and Claude APIs.
+- **What I keep coming back to:** making AI work for people who do not speak English first, and being a PM who ships real software, not just documents.
 
 ---
 
@@ -100,6 +100,6 @@ working AI product end-to-end.
 <a href="https://linkedin.com/in/abhinavgupta0809"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:agupta7@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<sub>Building consumer AI for the users the internet usually leaves behind.</sub>
+<sub>Building AI for the people the internet usually leaves behind.</sub>
 
 </div>

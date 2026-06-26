@@ -17,7 +17,7 @@ Right now I am at **Carnegie Mellon**, doing my **MS in Product Management (2026
 
 <a href="https://linkedin.com/in/abhinavgupta0809"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:agupta7@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.cmu.edu/mspm/"><img src="https://img.shields.io/badge/CMU_MSPM-2026-C41230?style=for-the-badge" alt="CMU MSPM 2026" /></a>
+<a href="https://www.cmu.edu/tepper"><img src="https://img.shields.io/badge/CMU_MSPM-2026-C41230?style=for-the-badge" alt="CMU MSPM 2026" /></a>
 
 </div>
 

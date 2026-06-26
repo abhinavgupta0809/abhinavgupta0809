@@ -2,7 +2,7 @@
 
 <!-- ===================== HEADER ===================== -->
 <a href="https://github.com/abhinavgupta0809">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&height=46&lines=Product+Manager+%C2%B7+Consumer+AI;I+ship+AI+products+end-to-end;Building+for+the+users+the+internet+leaves+behind" alt="Product Manager · Consumer AI" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=680&height=46&lines=Product+Manager+%C2%B7+Builder;I+ship+products+end-to-end;5%2B+years+building+for+400M%2B+users;Building+for+the+users+the+internet+leaves+behind" alt="Product Manager and Builder" />
 </a>
 
 ### Hi, I'm Abhinav 👋
@@ -17,7 +17,7 @@ Right now I am at **Carnegie Mellon**, doing my **MS in Product Management (2026
 
 <a href="https://linkedin.com/in/abhinavgupta0809"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:agupta7@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/badge/CMU_MSPM-2026-C41230?style=for-the-badge" alt="CMU MSPM 2026" />
+<a href="https://www.cmu.edu/mspm/"><img src="https://img.shields.io/badge/CMU_MSPM-2026-C41230?style=for-the-badge" alt="CMU MSPM 2026" /></a>
 
 </div>
 
@@ -58,7 +58,7 @@ OpenAI API works out the calories and macros for you. No dropdowns, no searching
 - **Recommendations and computer vision:** diagnostics recommendation systems, and image matching for seller catalogs.
 - **Growth and loyalty:** I ran Flipkart's loyalty portfolio for around 20 million high value users.
 - **Building AI on my own:** I design, build, and deploy products myself using Cursor, Replit, and the OpenAI and Claude APIs.
-- **What I keep coming back to:** making AI work for people who do not speak English first, and being a PM who ships real software, not just documents.
+- **What I keep coming back to:** making AI simple for non-technical users, so anyone can build with it without needing to write code, and being a PM who ships real software, not just documents.
 
 ---
 

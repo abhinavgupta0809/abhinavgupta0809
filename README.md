@@ -9,7 +9,7 @@
 
 </div>
 
-I am a product manager with **5+ years** building consumer products at some of India's biggest companies: **Flipkart (Walmart), Tata 1mg, Meesho, and ShareChat**. The products I worked on reach **400M+ users**, and a large share of them are people coming online for the first time, using the internet in their own language.
+I am a product manager with **5+ years** building consumer products at some of India's biggest companies: **Flipkart (Walmart), Tata 1mg, Meesho, and ShareChat**. The products I worked on reach **400M+ users**, and many of them are first-time and non-technical users, the kind of people most products quietly ignore.
 
 Right now I am at **Carnegie Mellon**, doing my **MS in Product Management (2026)** and going all in on consumer AI. The part I enjoy most is building the thing for real. I take a product from PRD to design to a live, working app, mostly on my own. So I know what I am shipping, not just what I am writing about.
 
